@@ -1,2 +1,2 @@
 # cookiecutter_personal
-esta es mi plantilla de cookie_cutter
+This is my Template for DataScience Projects
